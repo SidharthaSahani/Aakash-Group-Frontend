@@ -58,10 +58,6 @@ The project integrates the **FakeStoreAPI** to simulate a real-world e-commerce 
    npm run build
    ```
 
-## 📸 Screenshots
-*(Add your project screenshots here)*
-
----
 **Author:** Sidhatha
 **Date:** April 2026
 **Report Type:** Frontend Intern Task Submission
